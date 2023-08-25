@@ -17,3 +17,4 @@
     started-on-git-and-github.git'
 --> I closed the VS code and opened my repository named 'getting-started-on-git-and-github' and refreshed it 
 --> I opened the HTML file and CSS file and checked if my changes were added 
+--

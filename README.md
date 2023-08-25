@@ -15,7 +15,7 @@
 --> After that I saved all the changes by using the command 'git commit -m "added my name and changed the font color" '
 --> Then I added a new remote repository reference to my local repository by using the command 'git remote add remoterepo https://github.com/PRABHAS-VARMA/getting- 
     started-on-git-and-github.git'
---> Then I pushed the changes
+--> Then I pushed the changes by using the command 'git push --set-upstream origin testing'
 --> I closed the VS code and opened my repository named 'getting-started-on-git-and-github' and refreshed it 
 --> I opened the HTML file and CSS file and checked if my changes were added 
 --> The changes were corectly added 

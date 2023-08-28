@@ -2,7 +2,8 @@
 --> forked the repository from lab-git-and-github and named it as 'getting-started-on-git-and-github'
 --> created a folder in the project list in my devide and named the folder 'getting started on git and github'
 --> copied the link under the https code in the kalvium repository
---> opened VS code and opened the folder 'getting started on git and github'
+--> opened VS code and opened the folder 'getting started on git and github' and cloned by using the command "git clone https://github.com/Kalvium-Program/lab-git- 
+    and-github.git"
 --> In VS code I opened a new terminal and opened bash in that 
 --> cloned the repository by using the command 'git clone https://github.com/Kalvium-Program/lab-git-and-github.git'
 --> changed the directory by using the command 'cd getting-started-on-git-and-github/'
